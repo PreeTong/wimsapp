@@ -218,7 +218,7 @@ export default class HomeScreen extends Component {
               >
                 <View
                   style={{ flexDirection: 'column', borderWidth: .2, borderBottomWidth: 1, paddingBottom: 5, borderColor: 'rgba(0,0,0,0.2)', }}
-                  onTouchStart={() =>navigate('Details',{ params:rowData.act })}
+                  onTouchEnd={() =>navigate('Details',{ params:rowData.act })}
                   
                 >
                   <View style={{ flexDirection: 'row' }}>
