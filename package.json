@@ -1,5 +1,5 @@
 {
-  "name": "FirstLookReactNavigation",
+  "name": "wims",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -9,8 +9,10 @@
   "dependencies": {
     "react": "15.4.2",
     "react-native": "0.42.0",
+    "react-native-animated-bar": "^0.2.0",
     "react-native-elements": "^0.9.7",
     "react-native-progress-bar": "^0.1.2",
+    "react-native-pull": "^2.0.2",
     "react-native-splash-screen": "^3.0.0",
     "react-native-swipeout": "^2.2.2",
     "react-native-vector-icons": "^4.0.0",
@@ -24,5 +26,17 @@
   },
   "jest": {
     "preset": "react-native"
-  }
+  },
+  "description": "wims",
+  "main": "App.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PreeTong/wimsapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PreeTong/wimsapp/issues"
+  },
+  "homepage": "https://github.com/PreeTong/wimsapp#readme"
 }
