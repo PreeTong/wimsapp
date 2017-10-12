@@ -4,4 +4,7 @@
 #> npm install\
 #> npm react-native run-android
 
+PS. \
+android sdk marshmallow API 25
+
 endjoy :)
