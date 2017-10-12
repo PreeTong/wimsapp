@@ -1,4 +1,4 @@
 # wimsapp
 
-npm install #
+npm install\
 npm react-native run-android
